@@ -57,6 +57,12 @@ python generate_all_chapters.py
 # 本地：打开 docs/chapters/ 下的HTML文件
 ```
 
+## MCP Server
+
+仓库已提供首版 stdio MCP 服务，可直接把《史记》的章节、实体、关系、事件检索能力接到支持 MCP 的客户端中。
+
+详细说明见 [doc/mcp-server.md](doc/mcp-server.md)。
+
 ---
 
 ## 目录结构
